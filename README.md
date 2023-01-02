@@ -4,4 +4,4 @@ To simulate salt contamination that accumulates over time on the surface of the 
 
 To monitor and record the applied voltage and resulting leakage current, an interface was developed in LabVIEW software. Each of the insulators was individually connected to the ground to measure the leakage current through a shunt resistor. From the six analyzed insulators, two did not have flashed over and the respective leakage current values were measured until the end of the experiment. The other insulators were monitored only until the surface breakdown occurred. 
 
-The laboratory experiment was carried out by Nemesio Fava Sopelsa Neto under the supervision of Dr. Luiz Henrique Meyer, in the high voltage laboratory of the Universidade Regional de Blumenau.
+The experiment was carried out by Nemesio Fava Sopelsa Neto under the supervision of Dr. Luiz Henrique Meyer, in the High Voltage Laboratory of the Regional University of Blumenau (FURB), Brazil.

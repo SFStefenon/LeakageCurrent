@@ -24,6 +24,6 @@ Thank you.
 
 Dr. **Stefano Frizzo Stefenon**
 
-Trento, Italy, March 10, 2023.
+Trento, Italy, 2023.
 
 

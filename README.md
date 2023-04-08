@@ -15,7 +15,7 @@ The experiment was carried out by **Nemesio Fava Sopelsa Neto** under the superv
 Additional information can be found at the **[Original Paper](https://doi.org/10.3390/s22218323)**.
 
 BibTeX:
-`@Article{s22218323, AUTHOR = {Branco, Nathielle Waldrigues and Cavalca, Mariana Santos Matos and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho}, TITLE = {{Wavelet LSTM} for fault forecasting in electrical power grids}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {21}, PAGES = {8323}, DOI = {10.3390/s22218323}}}`
+`@Article{s22218323, AUTHOR = {Branco, Nathielle Waldrigues and Cavalca, Mariana Santos Matos and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho}, TITLE = {{Wavelet LSTM} for fault forecasting in electrical power grids}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {21}, PAGES = {8323}, DOI = {10.3390/s22218323}}`
 
 
 

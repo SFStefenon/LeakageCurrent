@@ -10,7 +10,7 @@ The experiment was carried out by **Nemesio Fava Sopelsa Neto** under the superv
 
 ---
 
-Additional information can be found at the **Original [Paper 1](https://doi.org/10.3390/s22166121)**.
+Additional information can be found at the **Original [Paper 1](https://doi.org/10.3390/s22166121)** and **Paper 2**.
 
 BibTeX:
 `@Article{s22166121, AUTHOR = {Sopelsa Neto, Nemesio Fava and Stefenon, Stefano Frizzo and Meyer, Luiz Henrique and Ovejero, Raúl García and Leithardt, Valderi Reis Quietinho}, TITLE = {Fault Prediction Based on Leakage Current in Contaminated Insulators Using Enhanced Time Series Forecasting Models}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {16}, PAGES = {6121}, DOI = {10.3390/s22166121}}`

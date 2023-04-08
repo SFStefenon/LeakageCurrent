@@ -6,9 +6,7 @@ To monitor and record the applied voltage and resulting leakage current, an inte
 
 The experiment was carried out by **Nemesio Fava Sopelsa Neto** under the supervision of Dr. **Luiz Henrique Meyer**, in the High Voltage Laboratory of the Regional University of Blumenau (FURB), Brazil. The data were organized in this repository by Dr. **Stefano Frizzo Stefenon**.
 
-
 ![image](https://user-images.githubusercontent.com/88292916/223122262-40c53b67-1953-4548-8773-98e50c6dd060.png)
-
 
 ---
 
@@ -16,8 +14,6 @@ Additional information can be found at the **[Original Paper](https://doi.org/10
 
 BibTeX:
 `@Article{s22218323, AUTHOR = {Branco, Nathielle Waldrigues and Cavalca, Mariana Santos Matos and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho}, TITLE = {{Wavelet LSTM} for fault forecasting in electrical power grids}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {21}, PAGES = {8323}, DOI = {10.3390/s22218323}}`
-
-
 
 ---
 Dr. **Stefano Frizzo Stefenon**

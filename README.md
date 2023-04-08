@@ -24,6 +24,5 @@ Thank you.
 
 Dr. **Stefano Frizzo Stefenon**
 
-Trento, Italy, 2023.
 
 

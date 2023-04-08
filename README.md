@@ -17,6 +17,7 @@ BibTeX:
 
 BibTeX:
 `@Article{preprint, AUTHOR = {Seman, Laio Oriel and Stefenon, Stefano Frizzo and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Ensemble learning methods using the Hodrick-Prescott filter for fault forecasting in insulators of the electrical power grids}, JOURNAL = {International Journal of Electrical Power \& Energy Systems}, VOLUME = {}, YEAR = {}, NUMBER = {}, PAGES = {}, DOI = {}}`
+
 ---
 
 Thank you.

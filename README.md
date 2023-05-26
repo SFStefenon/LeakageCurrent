@@ -1,4 +1,4 @@
-# Time Series of Leakage Current in Contaminated Insulators
+# Time Series of Leakage Current of Contaminated Insulators
 
 To simulate salt contamination that accumulates over time on the surface of the insulators, six insulators were mounted in a saline chamber. A 8.66 kV RMS 60Hz was applied to the insulators (same phase) and the salt concentration was increased gradually. This voltage level is defined by the NBR 10621 (similar to IEC 60507), standard used by the electrical power utility, specifically this standard deals with the determination of the characteristics of supportability under artificial pollution for insulators in electric power grids for the 15 kV class.
 

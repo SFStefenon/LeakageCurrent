@@ -24,10 +24,10 @@ BibTeX:
 
 
 ---
-
 Thank you.
 
-Dr. **Stefano Frizzo Stefenon**
+Dr. **Stefano Frizzo Stefenon**.
 
+Trento, Italy, April 10, 2023.
 
 

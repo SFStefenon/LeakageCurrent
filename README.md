@@ -12,9 +12,9 @@ The experiment was carried out by **Nemesio Fava Sopelsa Neto** under the superv
 
 Examples of applications can be found at:
 
-**[Fault Prediction Based on Leakage Current in Contaminated Insulators Using Enhanced Time Series Forecasting Models](https://doi.org/10.3390/s22166121)**
-
 **[Optimized EWT-Seq2Seq-LST with attention mechanism to insulators fault prediction](https://doi.org/10.3390/s23063202)**
+
+**[Fault Prediction Based on Leakage Current in Contaminated Insulators Using Enhanced Time Series Forecasting Models](https://doi.org/10.3390/s22166121)**
 
 **[Ensemble learning methods using the Hodrick-Prescott filter for fault forecasting in insulators of the electrical power grids](https://doi.org/10.1016/j.ijepes.2023.109269)**
 

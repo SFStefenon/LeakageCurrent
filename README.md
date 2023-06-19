@@ -11,12 +11,9 @@ The experiment was carried out by **Nemesio Fava Sopelsa Neto** under the superv
 ---
 
 Examples of applications can be found at:
-
-**[Optimized EWT-Seq2Seq-LSTM with attention mechanism to insulators fault prediction](https://doi.org/10.3390/s23063202)**
-
-**[Fault prediction based on leakage current in contaminated insulators using enhanced time series forecasting models](https://doi.org/10.3390/s22166121)**
-
-**[Ensemble learning methods using the Hodrick-Prescott filter for fault forecasting in insulators of the electrical power grids](https://doi.org/10.1016/j.ijepes.2023.109269)**
+**[Paper 1](https://doi.org/10.3390/s23063202)**,
+**[Paper 2](https://doi.org/10.3390/s22166121)**, and
+**[Paper 3](https://doi.org/10.1016/j.ijepes.2023.109269)**.
 
 ---
 Thank you.

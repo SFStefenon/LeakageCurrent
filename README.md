@@ -12,7 +12,7 @@ The experiment was carried out by **Nemesio Fava Sopelsa Neto** under the superv
 
 Examples of applications can be found at:
 
-**[Optimized EWT-Seq2Seq-LST with attention mechanism to insulators fault prediction](https://doi.org/10.3390/s23063202)**
+**[Optimized EWT-Seq2Seq-LSTM with attention mechanism to insulators fault prediction](https://doi.org/10.3390/s23063202)**
 
 **[Fault prediction based on leakage current in contaminated insulators using enhanced time series forecasting models](https://doi.org/10.3390/s22166121)**
 

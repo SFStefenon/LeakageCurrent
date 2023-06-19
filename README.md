@@ -10,18 +10,13 @@ The experiment was carried out by **Nemesio Fava Sopelsa Neto** under the superv
 
 ---
 
-Example of applications can be found at the **[Paper 1](https://doi.org/10.3390/s22166121)**, **[Paper 2](https://doi.org/10.3390/s23063202)**, and **[Paper 3](https://doi.org/10.1016/j.ijepes.2023.109269)**.
+Examples of applications can be found at:
 
-BibTeX:
-`@Article{s22166121, AUTHOR = {Sopelsa Neto, Nemesio Fava and Stefenon, Stefano Frizzo and Meyer, Luiz Henrique and Ovejero, Raúl García and Leithardt, Valderi Reis Quietinho}, TITLE = {Fault Prediction Based on Leakage Current in Contaminated Insulators Using Enhanced Time Series Forecasting Models}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {16}, PAGES = {6121}, DOI = {10.3390/s22166121}}`
+**[Fault Prediction Based on Leakage Current in Contaminated Insulators Using Enhanced Time Series Forecasting Models](https://doi.org/10.3390/s22166121)**
 
-BibTeX: 
-`@Article{s23063202, AUTHOR = {Klaar, Anne Carolina Rodrigues and Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Optimized {EWT-Seq2Seq-LSTM} with attention mechanism to insulators fault prediction}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {6}, PAGES = {3202}, DOI = {10.3390/s23063202}}'`
+**[Optimized EWT-Seq2Seq-LST with attention mechanism to insulators fault prediction](https://doi.org/10.3390/s23063202)**
 
-BibTeX:
-`@Article{preprint, AUTHOR = {Seman, Laio Oriel and Stefenon, Stefano Frizzo and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Ensemble learning methods using the Hodrick-Prescott filter for fault forecasting in insulators of the electrical power grids}, JOURNAL = {International Journal of Electrical Power \& Energy Systems}, VOLUME = {152}, YEAR = {2023}, PAGES = {109269}, DOI = {10.1016/j.ijepes.2023.109269}}`
-
-
+**[Ensemble learning methods using the Hodrick-Prescott filter for fault forecasting in insulators of the electrical power grids](https://doi.org/10.1016/j.ijepes.2023.109269)**
 
 ---
 Thank you.

@@ -102,3 +102,8 @@ JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {16}, pages = {6121}
 AUTHOR = {Stefenon, S. F. and Yow, K.-C. and Nied, A. and Meyer, L. H.},
 TITLE = {Classification of distribution power grid structures using inception v3 deep neural network},
 JOURNAL = {Electrical Engineering}, volume={104}, pages={4557–4569}, year={2022}, publisher={Springer}, doi={10.1007/s00202-022-01641-1}}
+
+Examples of applications can be found at:
+**[Paper 1](https://doi.org/10.3390/s23063202)**,
+**[Paper 2](https://doi.org/10.3390/s22166121)**, and
+**[Paper 3](https://doi.org/10.1016/j.ijepes.2023.109269)**.

@@ -10,9 +10,10 @@ The experiments were carried out by **Nemesio Fava Sopelsa Neto** under the supe
 
 
 Examples of applications can be found at:
-**[Paper 1](https://doi.org/10.3390/s23063202)**,
-**[Paper 2](https://doi.org/10.3390/s22166121)**, and
-**[Paper 3](https://doi.org/10.1016/j.ijepes.2023.109269)**.
+**[Paper 1](https://doi.org/10.1016/j.ijepes.2023.109269)**
+**[Paper 2](https://doi.org/10.3390/s23063202)**, and
+**[Paper 3](https://doi.org/10.3390/s22166121)**.
+.
 
 ---
 

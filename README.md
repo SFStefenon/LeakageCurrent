@@ -9,7 +9,7 @@ The experiments were carried out by **Nemesio Fava Sopelsa Neto** under the supe
 ![image](https://user-images.githubusercontent.com/88292916/223122262-40c53b67-1953-4548-8773-98e50c6dd060.png)
 
 
-Examples of applications can be found at:
+Examples of applications can be found in:
 **[Paper 1](https://doi.org/10.1016/j.ijepes.2023.109269)**, 
 **[Paper 2](https://doi.org/10.3390/s23136118)**,
 **[Paper 3](https://doi.org/10.3390/s23063202)**, and

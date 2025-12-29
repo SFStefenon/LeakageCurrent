@@ -12,8 +12,10 @@ The experiments were carried out by Nemesio Fava Sopelsa Neto under the supervis
 
 Thank you.
 
-Dr. **Stefano Frizzo Stefenon**.
+Dr. **Stefano Frizzo Stefenon**
 
 Professor of the Department of Computer Science
+
 Lisbon School of Engineering (ISEL)
+
 Polytechnic University of Lisbon (IPL)

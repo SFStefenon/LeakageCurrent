@@ -25,7 +25,7 @@ Thank you.
 
 Dr. **Stefano Frizzo Stefenon**
 
-Professor of the Department of Computer Science
+Professor of the Department of Computer Engineering
 
 Lisbon School of Engineering (ISEL)
 

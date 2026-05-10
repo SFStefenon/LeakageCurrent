@@ -13,6 +13,8 @@ Example of publications that used this dataset:
 
 [1] Stefenon, S. F., Oliveira, J. R., Coelho, A. S., & Meyer, L. H. (2017). Diagnostic of insulators of conventional grid through LabVIEW analysis of FFT signal generated from ultrasound detector. IEEE Latin America Transactions, 15(5), 884-889. https://doi.org/10.1109/TLA.2017.7910202
 
+[1] Medeiros, A., Sartori, A., Stefenon, S. F., Meyer, L. H., & Nied, A. (2022). Comparison of artificial intelligence techniques to failure prediction in contaminated insulators based on leakage current. Journal of Intelligent & Fuzzy Systems, 42(4), 3285-3298. https://doi.org/10.3233/JIFS-211126
+
 [1] Stefenon, S. F., Seman, L. O., Sopelsa Neto, N. F., Meyer, L. H., Mariani, V. C., & Coelho, L. D. S. (2023). Group method of data handling using Christiano–Fitzgerald random walk filter for insulator fault prediction. Sensors, 23(13), 6118. https://doi.org/10.3390/s23136118
 
 [1] Seman, L. O., Buratto, W. G., Gonzalez, G. V., Leithardt, V. R. Q., Nied, A., & Stefenon, S. F. (2026). Differentiable neural search architecture with zero-cost metrics for insulator fault prediction. Results in Engineering, 109716. https://doi.org/10.1016/j.rineng.2026.109716

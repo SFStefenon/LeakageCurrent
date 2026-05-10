@@ -17,8 +17,6 @@ Example of publications that used this dataset:
 
 ---
 
-Thank you.
-
 ## 👨‍🏫 Stefano Frizzo Stefenon, PhD  
 
 ### 🎓 **Professor** 
